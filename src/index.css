@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.create-new-one{
+  padding:10px 26px;
+  margin-right: 2px;
+  background-color: orange;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  font-size: medium;
+}
+.create-new-one:hover{
+  color: black;
+  background-color: yellow;
+}
+.list{
+padding:10px 36px;
+margin-left: 6px;
+background-color: blue;
+color: white;
+border-radius: 4px;
+border: none;
+font-size: medium;
+
+}
+.list:hover{
+  background-color: tomato;
+  color: black;
+}
+
+.submit-btn{
+  padding:10px 36px;
+}
+
